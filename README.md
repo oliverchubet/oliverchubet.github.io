@@ -1,3 +1,3 @@
 # oliverchubet.github.io
 
-[[hello]]
+[hello](hello.md)
