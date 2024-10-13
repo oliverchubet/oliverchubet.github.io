@@ -1,3 +1,3 @@
 # A kd-Tree
 
-![A kd-tree.](../figs/kd-tree.svg)
+![A kd-tree.](../svg/kd-tree.svg)
