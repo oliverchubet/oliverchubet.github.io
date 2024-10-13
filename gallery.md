@@ -1,3 +1,4 @@
 # Gallery
 
-![A kd-tree.](figs/kd-tree.svg)
+- A [kd-tree](gallery/kd-tree.md).
+

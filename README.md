@@ -1,5 +1,6 @@
 # oliverchubet.github.io
 
-[hello](hello.md)
+- [Hello!](hello.md)
 
-[gallery](gallery.md)
+- Here is a "[gallery](gallery.md)" of figures that I've drawn.
+
