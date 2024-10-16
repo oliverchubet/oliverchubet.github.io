@@ -1,15 +1,14 @@
 # CV
 
-_(Last updated: October 13, 2024)_
+_(Last updated: October 15, 2024)_
 
 ## Education
-
-**University of Connecticut, B.A. in Mathematics**,
-_September 2014 - May 2018_
 
 **North Carolina State University, PhD in Computer Science**,
 _September 2021 - Present_
 
+**University of Connecticut, B.A. in Mathematics**,
+_September 2014 - May 2018_
 
 ## Proceedings Publications
 
@@ -61,20 +60,20 @@ _ArXiV, 2022_
 
 ## Research Experience
 
-**NCSU, Topological Data Analysis Research**,
-_Graduate Research Assistant, Aug 2021 - Present_
+**NCSU, Graduate Research Assistant**, 
+_Aug 2021 - Present_
 * _Advised by Dr. Donald Sheehy_
 
 **Summer of Topological Data Analysis**,
 _Research Internship, Jan 2017 - Dec 2017_
 * _Directed by Ryan Kramer_
 
-**UCONN, Topological Data Analysis Research**,
-_Undergraduate Research Assistant, Jan 2017 - Dec. 2017_
+**UCONN, Undergraduate Research Assistant**,
+_Jan 2017 - Dec. 2017_
 * _Advised by Dr. Donald Sheehy_
 
-**UCONN, Semiconductor Research Lab**,
-_Undergraduate Research Assistant, May 2014 - Dec 2016_
+**UCONN, Undergraduate Research Assistant**, 
+_May 2014 - Dec 2016_
 * _Advised by Dr. Ali Gokirmak_
 
 ## Teaching Experience
