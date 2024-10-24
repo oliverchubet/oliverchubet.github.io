@@ -8,3 +8,4 @@
 
 - An [incremental construction of a greedy permutation using Voronoi diagrams](gallery/voronoi-algo.md).
 
+- My prelim slides on [proximity search in bounded doubling dimension](ProximitySearchInBoundedDoublingDimension.pdf).
