@@ -9,3 +9,5 @@
 - [Undecidability](slides/Undecidability.pdf).
 
 - [TM Example](slides/TMExamples-StateDiagrams-Algorithms.pdf).
+
+- [Diagonalization and TMs](slides/Diagonalization.pdf)
