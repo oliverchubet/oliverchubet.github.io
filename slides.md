@@ -11,3 +11,5 @@
 - [TM Example](slides/TMExamples-StateDiagrams-Algorithms.pdf).
 
 - [Diagonalization and TMs](slides/Diagonalization.pdf)
+
+- [FWCG'24 Presentation](slides/FWCG24_GreedyPermutations.pdf)
