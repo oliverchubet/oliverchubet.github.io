@@ -1,6 +1,6 @@
 # CV
 
-_(Last updated: October 15, 2024)_
+_(Last updated: August 28, 2025)_
 
 ## Education
 
