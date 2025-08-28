@@ -12,6 +12,10 @@ _September 2014 - May 2018_
 
 ## Proceedings Publications
 
+**A Theory of Sub-barcodes**,
+_Symposium on Computational Geometry, 2025_
+* _Co-authors: Kirk Gardner, Donald Sheehy_
+
 **Approximating the Directed Hausdorff Distance**,
 _Canadian Conference on Computational Geometry, 2023_
 * _Co-authors: Parth Parikh, Donald Sheehy, Siddharth Sheth_
@@ -52,11 +56,6 @@ _Fall Workshop on Computational Geometry, 2023_
 
 **A Maximum Subbarcode Matching Algorithm**,
 _CG Week, Young Researchers Forum, 2022_
-
-## Pre-prints
-**A Theory of Sub-barcodes**,
-_ArXiV, 2022_
-* _Co-authors: Kirk Gardner, Donald Sheehy_
 
 ## Research Experience
 
