@@ -1,10 +1,12 @@
 # Slide Decks
 
-- [Ants on Manifolds](slids/AntsOnManifolds.pdf), an NCSU Theory Seminar talk.
+- [Theory of Sub-barcodes](slides/TheoryOfSubbarcodes.pdf), presented at SOCG'25 in Kanazawa, Japan.
+
+- [Ants on Manifolds](slides/AntsOnManifolds.pdf), an NCSU Theory Seminar talk.
 
 - [Proximity Search in Bounded Doubling Dimension](slides/ProximitySearchInBoundedDoublingDimension.pdf), slides for my first preliminary exam.
 
-- [Intro to TMs](slides/IntroToTMs.pdf), CSC333 lecture slides.
+- [Intro to TMs](slides/IntroToTMs.pdf), CSC 333 lecture slides.
 
 - [Church-Turing Thesis](slides/ChurchTuringThesis.pdf), CSC 333 lecture slides.
 
@@ -12,6 +14,6 @@
 
 - [TM Example](slides/TMExamples-StateDiagrams-Algorithms.pdf), CSC 333 lecture slides.
 
-- [Diagonalization and TMs](slides/Diagonalization.pdf).
+- [Diagonalization and TMs](slides/Diagonalization.pdf), CSC 333 lecture slides.
 
-- [FWCG'24 Presentation](slides/FWCG24_GreedyPermutations.pdf).
+- [Greedy Permutations](slides/FWCG24_GreedyPermutations.pdf), presented at FWCG'24 at Tufts University.
