@@ -1,6 +1,6 @@
 # CV
 
-_(Last updated: August 28, 2025)_
+_(Last updated: September 29, 2025)_
 
 ## Education
 
@@ -26,6 +26,11 @@ _Symposium on Simplicity in Algorithms, 2023_
 
 **Maximum Subbarcode Matching and Subbarcode Distance**,
 _Canadian Conference on Computational Geometry, 2022_
+
+## Journal Articles
+**Approximating the Directed Hausdorf Distance**
+_Computing in Geometry and Topology, 2025_
+* _Co-authors: Parth Parikh, Donald Sheehy, Siddharth Sheth_
 
 ## Workshop Papers
 
